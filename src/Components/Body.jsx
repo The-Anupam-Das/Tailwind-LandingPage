@@ -14,7 +14,7 @@ const Body = () => {
         <p className="font-lato text-gray-500">With Hosterr, get your website up and running in no less than 5 minutes with the most competitive pricing packages available online.</p>
         <form action="" className="flex flex-col md:flex-row">
           <input className="rounded-md px-4 py-3 placeholder:text-gray-500" type="email" id="email" name="email" placeholder="Enter Email Address"/>
-          <button className="rounded-md px-4 py-3 bg-blue-400 hover:bg-blue-600 text-white">Join waitlist</button>
+          <button className="rounded-md px-4 py-3 bg-blue-400 hover:bg-blue-600 text-white">Join Waitlist</button>
         </form>
         <div className=" flex gap-2 pt-2">
           <img  src="/public/assets/Checkmark.svg" alt="check"/>
